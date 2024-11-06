@@ -17,3 +17,5 @@ This repository includes a collection of statistics problems I solved during my 
 8.Correlation and Simple Linear Regression
 
 Problems are organized by topic, with each solution including explanations and step-by-step calculations to offer clarity on the methods used.
+
+Note: For checking problems and their solutions, please upload MS Word files.
