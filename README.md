@@ -6,9 +6,9 @@ This repository includes a collection of statistics problems I solved during my 
 
 3.Normal Distribution
 
-4.One, Two proportion Z tests
+4.One, Two proportion, mean Z tests
 
-5.One, Two T tests
+5.One, Two proportion, mean T tests
 
 6.Confidence Intervals
 
