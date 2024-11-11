@@ -1,4 +1,4 @@
-This repository includes a collection of statistics problems I solved during my bachelor's studies. Each section provides a detailed approach to statistical concepts and problem-solving methods, demonstrating a foundational understanding of topics such as:
+This repository includes a collection of statistics problems I solved during my learning period . Each section provides a detailed approach to statistical concepts and problem-solving methods, demonstrating a foundational understanding of topics such as:
 
 1.Introduction to Statistics
 
